@@ -16,3 +16,14 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Backups
+*.backup
+*.backup.*
+app.py.backup.whisper
+
+# Temporary files
+temp/
+*.wav
+*.mp3
+*.tmp
